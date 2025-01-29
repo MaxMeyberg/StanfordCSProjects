@@ -1,0 +1,10 @@
+./train/COD10K-CAM-1-Aquatic-13-Pipefish-646.jpg
+./train/COD10K-CAM-1-Aquatic-13-Pipefish-647.jpg
+./train/COD10K-CAM-1-Aquatic-13-Pipefish-648.jpg
+./train/COD10K-CAM-1-Aquatic-13-Pipefish-650.jpg
+./train/COD10K-CAM-1-Aquatic-13-Pipefish-653.jpg
+./train/COD10K-CAM-1-Aquatic-13-Pipefish-654.jpg
+./train/COD10K-CAM-1-Aquatic-13-Pipefish-656.jpg
+./train/COD10K-CAM-1-Aquatic-13-Pipefish-657.jpg
+./train/COD10K-CAM-1-Aquatic-13-Pipefish-658.jpg
+./train/COD10K-CAM-1-Aquatic-13-Pipefish-659.jpg

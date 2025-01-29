@@ -1,0 +1,8 @@
+path: datasets/cod10K
+train: images/train_m_500.txt
+val: images/val_m_100.txt
+test: images/test_m_100.txt
+
+nc: 1
+names: 
+  0: 'Camo'

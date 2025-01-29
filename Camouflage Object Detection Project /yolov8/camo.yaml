@@ -1,0 +1,8 @@
+path: datasets/cod10K
+train: images/autosplit_train.txt
+val: images/autosplit_val.txt
+# test: images/test
+
+nc: 1
+names: 
+  0: 'Camo'
